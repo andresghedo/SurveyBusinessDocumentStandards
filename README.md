@@ -12,4 +12,5 @@
  GS1 XML - EAN + UCC
 
  Course of "Complementi di Base di Dati" LM Informatica @ Alma Mater Studiorum 
+ 
  Università degli Studi di Bologna - anno 2014/2015
